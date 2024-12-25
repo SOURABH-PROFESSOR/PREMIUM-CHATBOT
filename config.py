@@ -15,3 +15,4 @@ OWNER_ID = int(getenv("OWNER_ID", "1808943146"))
 SUPPORT_GRP = "Meetupzone_Chatting"
 UPDATE_CHNL = "Ur_karma_baby"
 OWNER_USERNAME = "introvertt_i"
+SUDOERS = ""

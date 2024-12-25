@@ -3,6 +3,7 @@ import os
 import sys
 import shutil
 import asyncio
+from nexichat import SUDOERS
 from pyrogram.enums import ParseMode
 from pyrogram import Client, filters
 from pyrogram.errors.exceptions.bad_request_400 import AccessTokenExpired, AccessTokenInvalid
